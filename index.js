@@ -1,7 +1,8 @@
 
      
- let companyName = "const";
- companyName = "Scuber";
+ 
+ const companyName = "Scuber";
+
 
     mostProfitableNeighborhood = "Chelsea";
     let mostProfitableNeighborhood = "Chelsea"
